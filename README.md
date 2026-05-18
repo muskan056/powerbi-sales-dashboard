@@ -22,7 +22,8 @@ This Power BI dashboard provides insights into sales performance, profit trends,
 - Power-BI-Dataset.xlsx
 
 ## Dashboard Preview
-(Add screenshot below)
+
+![Dashboard](Screenshot%202026-05-14%20214751.png)
 
 ## Key Insights
 - Technology category generated highest sales
